@@ -3,7 +3,7 @@ Use SNOMED CT codes to find the relations and use those or clinical purposes.
 
 This file helps in identifying various relationship analysis from a given SNOMED CT code. (eg: finding site, has intent, etc)
 
-I have used the latest SNOMED International files.
+I have used the latest SNOMED International files - 2023.
 
 ## References: 
 
