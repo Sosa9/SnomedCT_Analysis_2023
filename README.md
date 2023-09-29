@@ -11,3 +11,5 @@ I have used the latest SNOMED International files - 2023.
 2. https://browser.ihtsdotools.org/
 3. https://www.nlm.nih.gov/
 4. https://confluence.ihtsdotools.org/display/DOCANLYT/Data+Analytics+with+SNOMED+CT
+
+NOTE: Once you download the entire zip files from Snomed CT International, refer the files under Snapshot folder for the analytics purpose.
